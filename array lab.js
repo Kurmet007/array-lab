@@ -47,7 +47,7 @@ const Meal = [];
 Meal.push('pizza');
 Meal.push('cheeseburger');
 Meal.unshift('taco');
-
+//forgot if it was shift or unshift but looked them both up to be sure
 
 console.log('Exercise 3 result:', Meal);
 
@@ -332,7 +332,7 @@ const nuMArrays = [
   [7, 81, 90]];
 
 const num = nuMArrays[2][1];
-
+//asked classmates for help on this i understand it but more practice is needed 
 console.log('Exercise 14 result:', num);
 
 
